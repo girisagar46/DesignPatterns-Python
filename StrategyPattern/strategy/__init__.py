@@ -1,0 +1,5 @@
+from StrategyPattern.strategy.order import Order
+from StrategyPattern.strategy.fedex_strategy import FedExStrategy
+from StrategyPattern.strategy.postal_strategy import PostalStrategy
+from StrategyPattern.strategy.shipping_cost import ShippingCost
+from StrategyPattern.strategy.ups_strategy import UpsStrategy
