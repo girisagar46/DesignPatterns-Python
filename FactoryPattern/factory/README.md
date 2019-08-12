@@ -1,0 +1,1 @@
+[https://realpython.com/factory-method-python/](https://realpython.com/factory-method-python/)
